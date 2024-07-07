@@ -1,3 +1,10 @@
+# Running act
+
+```sh
+act --artifact-server-path /tmp/artifacts/ -s GITHUB_TOKEN=
+```
+
+
 # Astro Starter Kit: Basics
 
 ```sh
